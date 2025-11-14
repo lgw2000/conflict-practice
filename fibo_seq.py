@@ -7,4 +7,4 @@ def fibo():
     return fibo_inner
 if __name__ == '__main__':
     func = fibo()
-    print(func(6))
+    print(func(8))
